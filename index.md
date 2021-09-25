@@ -2,7 +2,7 @@
 
 **Computer Engineering**
 
-![Alan Turing] (https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg)
+![Alan Turing](https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg)
 > I propose to consider the question, "Can machines think"?
 
  ```
