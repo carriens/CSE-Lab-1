@@ -15,10 +15,10 @@ Read about [Turing](https://en.wikipedia.org/wiki/Alan_Turing)
 
 [View the readme for this file](./README.md)
 
--This
--Is
--An unordered 
--List
+- This
+- Is
+- An unordered 
+- List
 
 1.  This one
 2.  is 
@@ -26,6 +26,6 @@ Read about [Turing](https://en.wikipedia.org/wiki/Alan_Turing)
 
 **Tasks**
 
--[] Ace this class
--[] Find purpose
--[] Be happy
+- [] Ace this class
+- [] Find purpose
+- [] Be happy
